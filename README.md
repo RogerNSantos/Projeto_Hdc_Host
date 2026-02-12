@@ -1,2 +1,2 @@
 Site hDc Host responsivel
-Desenvolcido Em Htmc e Css.
+Desenvolvido Em Html e Css.
